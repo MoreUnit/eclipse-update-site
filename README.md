@@ -1,4 +1,4 @@
-This repository is not usefull anyore.
+This repository is not usefull anymore.
 
 You can find the latest release of MoreUnit-Eclipse here:
 
